@@ -1,0 +1,471 @@
+/* *{
+    margin-top: auto;
+} */
+#box1
+{
+    position: absolute;
+    width: 1440px;
+    /* height: 592px; */
+    left: 0px;
+    top: -1px;
+    
+    /* The brown */
+    
+    background: #FFCD9E;
+   
+
+
+}
+/* #box3
+{
+  background-color: bisque;
+  color:blueviolet;
+  height: 500px;
+  width: 50%;
+  float: right;
+  margin-right: 0%;
+} */
+
+#box2
+{
+    position: absolute;
+width: 1440px;
+height: 298px;
+left: 0px;
+top: 592px;
+
+/* The Black */
+
+background: #282828;
+    
+}
+
+.child_div1
+{
+    height: 108px; 
+    width: 562px;
+    margin-top: 84px;
+    margin-left: 136px;
+}
+.child_div2
+{
+    height: 81px;
+    width: 495px;
+    /* margin-top: 220px; */
+    margin-block-start: 28px;
+    margin-block-end: 291px;
+    margin-left: 136px;
+    margin-right: 809px;
+    
+}
+ .child_div3
+ {
+    position: absolute;
+width: 227px;
+height: 81px;
+left: 136px;
+top: 315px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+display: flex;
+align-items: center;
+
+color: #282828;
+ }
+
+ /* .child_div4 input[type="email"]
+ {
+    position: absolute;
+    width: 350px;
+    height: 64px;
+    left: 136px;
+    top: 411px;
+    border: 1px solid #555
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* or 32px */
+
+    /* display: flex;
+    align-items: center;
+
+    color: #888888;
+ }  */
+
+ #emailbox input[type="email"]
+ {
+box-sizing: border-box;
+position: absolute;
+width: 344px;
+height: 64px;
+left: 136px;
+top: 411px;
+background: #FFFFFF;
+border: 4px solid #000000;
+border-radius: 8px; 
+}
+
+ #emailbox input[type="email"]::placeholder {
+
+    /* position: absolute;
+    width: 350px;
+    height: 64px;
+    left: 158px;
+    top: 411px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 160%;
+    
+
+    display: flex;
+    align-items: center; */
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    align-items: center;
+    left: 158px;
+
+
+    color: #888888; 
+    
+
+
+
+}
+
+
+ .child_div4 input[type="button"]
+ {
+    position: absolute;
+    width: 216px;
+    height: 64px;
+    left: 496px;
+    top: 411px;
+
+    background: #282828;
+    border-radius: 8px;
+ }
+
+ #registerbutton input[type="button"] {
+    /* position: absolute;
+width: 216px;
+height: 64px;
+left: 496px;
+top: 411px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF; */
+    /* Your CSS styles for the "Register" button here */
+    font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+.child_div5 {
+   /* Rectangle 11 */
+
+   height: 61px;
+   width: 344px;
+   left: 134px;
+   top: 479px;
+   border-radius: nullpx;
+   
+
+}
+
+.child_div5 p{
+
+    /* Free - No Spam - No Data Sharing */
+
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    left: 134px;
+    top: 479px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+
+
+}
+
+.Vector
+{
+    position: absolute;
+width: 575px;
+height: 575px;
+left: 818px;
+top: 20px;
+
+}
+
+.Vector img{
+    height: 442.4498291015625px;
+    width: 393.5204162597656px;
+    left: 909.81px;
+    top: 87.4px;
+    display: inline;
+    margin-block-end: 62.15px;
+    border-radius: 0px;
+    
+}
+
+/* .vector img{
+
+    position: absolute;
+left: 15.98%;
+right: 15.58%;
+top: 11.55%;
+bottom: 11.51%;
+
+background: #100F0D;
+} */
+
+
+
+
+#box2 .P1 {
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    /* top: 654px; */
+    margin-block-start: 61px;
+    margin-left: 191px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    
+}
+
+
+#box2 .P2 {
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    /* top: 654px; */
+    margin-block-start: -1px;
+    margin-left: 191px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    
+}
+#box2 .P3 {
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    /* top: 654px; */
+    margin-block-start: -1px;
+    margin-left: 191px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    
+}
+#box2 .P4 {
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    /* top: 654px; */
+    margin-block-start: -1px;
+    margin-left: 191px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    
+}
+#box2 .P5 {
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    /* top: 654px; */
+    margin-block-start: -1px;
+    margin-left: 191px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    
+}
+#
+
+#box2 .Q1 p{
+    position: absolute;
+    height: 36px;
+width: 148px;
+left: 1099px;
+/* top: 62px; */
+margin-block-start: 62px 
+margin-left: 1099px;
+
+
+border-radius: nullpx;
+color: #FFFFFF;
+
+}
+
+#box2 .Q1 p {
+    position: absolute;
+    height: 36px;
+    width: 148px;
+    left: 1099px; /* Adjust the left value according to your desired horizontal position */
+    top: 30px; /* Adjust the top value according to your desired vertical position */
+    color: #FFFFFF;
+    /* Additional styles as needed */
+  }
+
+  #box2 .Q2 p {
+    position: absolute;
+    height: 36px;
+    width: 232px;
+    left: 1015px; /* Adjust the left value according to your desired horizontal position */
+    top: 75px;  /*Adjust the top value according to your desired vertical position  */ */
+    margin-block-start: 20px;
+    color: #FFFFFF;
+    /* Additional styles as needed */
+  }
+
+  .LinkedinLogo
+  {
+    position: absolute;
+width: 29.41px;
+height: 27.42px;
+left: 1100px;
+top: 85px;
+margin-block-start: 40px;
+}
+.InstagramLogo
+{
+    position: absolute;
+width: 29.41px;
+height: 27.42px;
+left: 1150px;
+top: 85px;
+margin-block-start: 40px;
+}
+
+#box2 .Q4 p{
+    /* position: absolute;
+    height: 36px;
+width: 232px;
+left: 1150px;
+top: 115px;
+margin-block-start: 40px;
+color: #FFFFFF; */
+position: absolute;
+width: 232px;
+height: 36px;
+left: 945px;
+top: 206px;
+
+/* or 32px */
+
+text-align: right;
+
+color: #FFFFFF;
+
+
+}
+
+#nose
+{
+position: absolute;
+height: 37.69148254394531px;
+width: 8.451997756958008px;
+left: 1105px;
+top: -465.7154541015625px;
+margin-block-start: 10px;
+margin-left: -95px;
+border-radius: 0px;
+}
+
+#eyeleft
+{
+    
+position: absolute;
+left: 69.12%;
+right: 52.52%;
+top: -152.29%;
+bottom: 67.54%;
+
+background: #100F0D;
+    
+
+}
+
+#eyeright
+{
+position: absolute;
+left: 72.1222%;
+right: 52.52%;
+top: -152.29%;
+bottom: 67.54%;
+
+background: #100F0D;
+    
+}
+#eyebrowleft
+{
+position: absolute;
+left: 68.12%;
+right: 52.52%;
+top: -160.29%;
+bottom: 67.54%;
+
+background: #100F0D;
+    
+}
+#eyebrowright
+{
+    position: absolute;
+left: 71.12%;
+right: 52.52%;
+top: -160.29%;
+bottom: 67.54%;
+
+background: #100F0D;
+}
+
+#lips
+{
+    position: absolute;
+    left: 70.12%;
+    right: 55.52%;
+    top: -140.29%;
+    bottom: 67.54%;
+    
+    background: #100F0D;
+}
+
+   
